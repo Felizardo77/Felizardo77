@@ -21,3 +21,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Felizardo77&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+![snake gif](https://github.com/Felizardo77/Felizardo77/blob/output/github-snake-dark.svg)
