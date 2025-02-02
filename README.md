@@ -1,7 +1,5 @@
 # Olá, sou Felizardo Muchanga! 👋:
 <br>Sou engenheiro de software e desenvolvedor fullstack, atuando como co-fundador e dev fullstack na Ikarus Tech. Atualmente, estou focado no desenvolvimento do site oficial da empresa e em projetos estratégicos confidenciais.<br><br>Minhas principais habilidades:<br><br>🌐 Desenvolvimento Web e Mobile<br>🏗️ Arquitetura de Software<br>🤝 Colaboração em Projetos Complexos<br>🚀 Inovação Tecnológica<br>📧 Entre em contato | 🌐 LinkedIn
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/felizardo77) 
 
@@ -23,3 +21,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Felizardo77&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ![snake gif](https://github.com/Felizardo77/Felizardo77/blob/output/github-snake-dark.svg)
+
+![](https://github-readme-stats.vercel.app/api?username=Felizardo77&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-contributor-stats.vercel.app/api?username=Felizardo77&org=Ikarus-Tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
