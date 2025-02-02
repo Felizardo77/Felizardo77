@@ -23,5 +23,5 @@
 ![snake gif](https://github.com/Felizardo77/Felizardo77/blob/output/github-snake-dark.svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=Felizardo77&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-contributor-stats.vercel.app/api?username=Felizardo77&org=Ikarus-Tech&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Felizardo77&org=Ikarus-Tech&limit=15&theme=dark&combine_all_yearly_contributions=true)
 
