@@ -13,7 +13,7 @@
 
 ## <summary><b>☀️Github Streaks</b></summary>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Felizardo77&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=060822&ring=2A06DD&fire=FFBF29&currStreakNum=FF4499" alt="Felizardo77" />
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?username=Felizardo77&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=060822&ring=2A06DD&fire=FFBF29&currStreakNum=FF4499" alt="Felizardo77" />
 </p>
 
 ## <summary><b>👀Profile Details</b></summary>
