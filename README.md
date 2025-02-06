@@ -17,8 +17,8 @@
 </p>
 
 ## <summary><b>👀Profile Details</b></summary>
-
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Felizardo77&theme=github_dark" alt="Felizardo77-profile-details" align = "center"/></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Felizardo77&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Felizardo77&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![snake gif](https://github.com/Felizardo77/Felizardo77/blob/output/github-snake-dark.svg)
 
